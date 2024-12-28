@@ -1,0 +1,3 @@
+<?php
+// Tes pengujian php
+?>
